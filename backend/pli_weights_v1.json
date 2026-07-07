@@ -1,0 +1,12 @@
+{
+  "weights": {
+    "import_dependency": 0.20,
+    "who_essential": 0.15,
+    "manufacturing_complexity": 0.15,
+    "local_manufacturing_capability": 0.15,
+    "api_supplier_risk": 0.10,
+    "patent_status": 0.10,
+    "estimated_investment_cost": 0.10,
+    "demand_proxy": 0.05
+  }
+}
